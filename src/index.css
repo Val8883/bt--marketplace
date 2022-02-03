@@ -826,6 +826,10 @@ button {
     height: 2rem;
 }
 
+.navIcon:hover {
+    fill: #00cc66;
+}
+
 .activeNavIcon {
     fill: #2c2c2c;
 }
